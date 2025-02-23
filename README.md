@@ -15,7 +15,7 @@ As rows are completed, they will flash for two seconds before being cleared, cau
 >
 > **However if you want to jump straight to install and running the game, use the table of contents below.**
 >
-> You can watch a sample gameplay by clicking [**here**](https://github.com/Ohtears/Tetris-w-Digital-Logic/blob/main/Gameplay%20Sample.mp4).
+> You can download a sample gameplay by clicking [**here**](https://github.com/Ohtears/Tetris-w-Digital-Logic/raw/refs/heads/main/Gameplay%20Sample.mp4).
 >
 
 ![project interface pic](resources/project_interface.png)
@@ -1376,7 +1376,7 @@ which is **not a proper counterclockwise rotation**.
 
 > [!NOTE]
 >
-> You can watch a sample gameplay by clicking [**here**](https://github.com/Ohtears/Tetris-w-Digital-Logic/blob/main/Gameplay%20Sample.mp4).
+> You can download a sample gameplay by clicking [**here**](https://github.com/Ohtears/Tetris-w-Digital-Logic/raw/refs/heads/main/Gameplay%20Sample.mp4).
 >
 
 ## Resources  
